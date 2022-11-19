@@ -26,3 +26,7 @@
 
     git commit
 
+## Добавление комментария к коммиту
+
+    git commit -m "Message"
+
