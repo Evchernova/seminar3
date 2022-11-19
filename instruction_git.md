@@ -38,3 +38,7 @@
 
     git commit -am "message"
 
+## Просмотр истории ветки
+
+    git log
+
